@@ -46,23 +46,41 @@ sqflite: For local storage (if applicable).
 
 ## Folder Structure
 Kickstart/
+
 ├── android/ # Android-specific files
+
 ├── assets/ # App assets
+
 │ └── icon/ # App icon
+
 ├── ios/ # iOS-specific files
+
 ├── lib/ # Dart code
+
 │ ├── main.dart # Entry point of the app
+
 │ ├── therapy_schedule_screen.dart
+
 │ ├── status_page.dart
+
 │ ├── schedule_page.dart
+
 │ └── help_page.dart
+
 ├── linux/ # Linux-specific files
+
 ├── macos/ # macOS-specific files
+
 ├── test/ # Unit and widget tests
+
 ├── web/ # Web-specific files
+
 ├── windows/ # Windows-specific files
+
 ├── analysis_options.yaml # Dart static analysis configuration
+
 ├── pubspec.yaml # App dependencies and metadata
+
 └── README.md # Project documentation
 
 ## Contributing
