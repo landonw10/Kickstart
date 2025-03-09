@@ -38,10 +38,12 @@ A Flutter app for managing therapy sessions, including Cryotherapy and Electrica
 5. Run the app:
    ```bash
     flutter run
-   
+
 ### Dependencies
 provider: For state management.
+
 flutter_local_notifications: For local notifications (if applicable).
+
 sqflite: For local storage (if applicable).
 
 ## Folder Structure
@@ -85,23 +87,33 @@ Kickstart/
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
+
 Fork the repository.
+
 Create a new branch (git checkout -b feature/YourFeatureName).
+
 Commit your changes (git commit -m 'Add some feature').
+
 Push to the branch (git push origin feature/YourFeatureName).
+
 Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
 
 ## Acknowledgments
+
 Flutter Documentation: For Flutter resources and guides.
+
 Provider Package: For state management.
+
 Icons8: For app icons (if applicable).
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
+
 Your Name: landon.w10@hotmail.com
+
 GitHub: landonw10
 
 
