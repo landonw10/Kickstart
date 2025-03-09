@@ -112,7 +112,9 @@ Icons8: For app icons (if applicable).
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
-Your Name: landon.w10@hotmail.com
+Landon Wellendorf
+
+Email: landon.w10@hotmail.com
 
 GitHub: landonw10
 
