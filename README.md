@@ -25,7 +25,7 @@ This app has only been configured for android.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kickstart-knee-brace.git
+   git clone https://github.com/landonw10/Kickstart.git
    
 2. Navigate to the project directory:
    ```bash
