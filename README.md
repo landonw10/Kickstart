@@ -87,18 +87,6 @@ Kickstart/
 
 └── README.md # Project documentation
 
-## Contributing
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/YourFeatureName).
-
-Commit your changes (git commit -m 'Add some feature').
-
-Push to the branch (git push origin feature/YourFeatureName).
-
-Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
