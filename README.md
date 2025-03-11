@@ -97,7 +97,6 @@ Flutter Documentation: For Flutter resources and guides.
 
 Provider Package: For state management.
 
-Icons8: For app icons (if applicable).
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
