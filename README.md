@@ -29,7 +29,7 @@ This app has only been configured for android.
    
 2. Navigate to the project directory:
    ```bash
-    cd kickstart-knee-brace
+    cd Kickstart
    
 3. Install dependencies:
    ```bash
