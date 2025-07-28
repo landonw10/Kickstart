@@ -2,8 +2,6 @@
 
 A Flutter app for managing therapy sessions, including Cryotherapy and Electrical Stimulation. Users can set therapy duration, choose therapies, and view a personalized therapy schedule.
 
-This app has only been configured for android.
-
 ## Features
 - Set therapy duration (hours and minutes).
 - Choose between Cryotherapy and Electrical Stimulation.
