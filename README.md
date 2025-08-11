@@ -42,9 +42,7 @@ A Flutter app for managing therapy sessions, including Cryotherapy and Electrica
 ### Dependencies
 provider: For state management.
 
-flutter_local_notifications: For local notifications (if applicable).
-
-sqflite: For local storage (if applicable).
+sqflite: For local storage.
 
 ## Folder Structure
 Kickstart/
